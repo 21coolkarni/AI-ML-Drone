@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=o81fQ5rGYFw
 Arming the Drone with python scrypt:-
 https://www.youtube.com/watch?v=2F8FTi4Ct6I                                                        
 Drone website-
-https://21coolkarni.github.io/
+https://21coolkarni.github.io/                                                              
 System Requirements :-                                                               
 1)On-board Computer requirements(Software):- python2.7, pip2, python3, pip3, opencv, Dronekit, MavProxy, MavlinkProtocol Drivers, PI camera Drivers, Serial communication enabled on GPIO pins, PI-OLED_Status.git, G-streammer.
 
