@@ -1,5 +1,5 @@
 import cv2
-import  pyshine as ps #  pip3 install pyshine==0.0.9
+import  pyshine as ps
 HTML="""
 <html>
 <head>
