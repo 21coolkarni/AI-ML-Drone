@@ -2,7 +2,7 @@
 AL ML powered drone with onboard computer for flight automation
 I made this project as my final year project and for Smart india hackthon.
 SIH Idea-
-https://www.youtube.com/watch?v=evobBG9jyF8
+https://www.youtube.com/watch?v=evobBG9jyF8                                                                            
 60 FPS Face Detection-
 https://www.youtube.com/watch?v=o81fQ5rGYFw
 Arming the Drone with python scrypt:-
