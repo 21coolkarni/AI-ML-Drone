@@ -4,7 +4,7 @@ I made this project as my final year project and for Smart india hackthon.
 SIH Idea-
 https://www.youtube.com/watch?v=evobBG9jyF8                                                                            
 60 FPS Face Detection-
-https://www.youtube.com/watch?v=o81fQ5rGYFw
+https://www.youtube.com/watch?v=o81fQ5rGYFw                                           
 Arming the Drone with python scrypt:-
 https://www.youtube.com/watch?v=2F8FTi4Ct6I
 Drone website-
