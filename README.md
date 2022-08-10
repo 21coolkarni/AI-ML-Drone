@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=evobBG9jyF8
 60 FPS Face Detection-
 https://www.youtube.com/watch?v=o81fQ5rGYFw                                           
 Arming the Drone with python scrypt:-
-https://www.youtube.com/watch?v=2F8FTi4Ct6I
+https://www.youtube.com/watch?v=2F8FTi4Ct6I                                                        
 Drone website-
 https://21coolkarni.github.io/
 
